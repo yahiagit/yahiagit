@@ -1,7 +1,6 @@
 
 
-https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif
-
+(https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif)
 
 # 💫 About Me:
 I'm yahia kasem  from Egypt. I work as a financial and administrative manager at Zaytuna Foundation, an institution for homeschooling. Currently, I am on a scholarship to learn front-end development at Almdrasa platform, which is an Arabic platform for teaching programming.<br>
