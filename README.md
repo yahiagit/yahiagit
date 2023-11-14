@@ -1,4 +1,7 @@
 
+![ef0936558e58d6bebf73fee2ae895fe3](https://github.com/yahiagit/yahiagit/assets/150540765/76028a35-1a93-45ce-8c06-8b7abe21633f)
+
+
 
 # 💫 About Me:
 I'm yahia kasem  from Egypt. I work as a financial and administrative manager at Zaytuna Foundation, an institution for homeschooling. Currently, I am on a scholarship to learn front-end development at Almdrasa platform, which is an Arabic platform for teaching programming.<br>
